@@ -1,0 +1,12 @@
+## Implement Bayes Classifier for Iris Dataset.   
+### Dataset Specifications:
+Total number of samples = 150   
+Number of classes = 3 (Iris setosa, Iris virginica, and Iris versicolor)  
+Number of samples in each class = 50
+### Use the following information to design classifier:
+Number of training feature vectors ( first 40 in each class) = 40   
+Number of test feature vectors ( remaining 10 in each class) = 10   
+Number of dimensions = 4   
+Feature vector = <sepal length, sepal width, petal length, petal width>  
+Use only two features: Petal Length and Petal Width, for 3 class classification  
+### Draw the decision boundary between them (2 dimension, 3 regions also called as multi-class problem)
